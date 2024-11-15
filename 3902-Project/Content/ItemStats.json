@@ -1,0 +1,201 @@
+{
+  "WoodenGreatsword": {
+    "UsageTime": 250,
+    "MeleeDamage": 40
+  },
+  "WoodenMallet": {
+    "UsageTime": 500,
+    "MeleeDamage": 90
+  },
+  "WoodenDagger": {
+    "UsageTime": 65,
+    "MeleeDamage": 14
+  },
+  "WoodenAxe": {
+    "UsageTime": 999,
+    "MeleeDamage": 0
+  },
+  "WoodenSpear": {
+    "UsageTime": 200,
+    "MeleeDamage": 30
+  },
+  "WoodenPickaxe": {
+    "UsageTime": 999,
+    "MeleeDamage": 0
+  },
+  "WoodenShovel": {
+    "UsageTime": 200,
+    "MeleeDamage": 18
+  },
+  "WoodenScythe": {
+    "UsageTime": 999,
+    "MeleeDamage": 0
+  },
+  "BoneGreatsword": {
+    "UsageTime": 200,
+    "MeleeDamage": 60
+  },
+  "BoneMallet": {
+    "UsageTime": 200,
+    "MeleeDamage": 60
+  },
+  "BoneDagger": {
+    "UsageTime": 52,
+    "MeleeDamage": 21
+  },
+  "BoneAxe": {
+    "UsageTime": 999,
+    "MeleeDamage": 0
+  },
+  "BoneSpear": {
+    "UsageTime": 160,
+    "MeleeDamage": 45
+  },
+  "BonePickaxe": {
+    "UsageTime": 999,
+    "MeleeDamage": 0
+  },
+  "BoneShovel": {
+    "UsageTime": 999,
+    "MeleeDamage": 0
+  },
+  "BoneScythe": {
+    "UsageTime": 999,
+    "MeleeDamage": 0
+  },
+  "BoneRake": {
+    "UsageTime": 700,
+    "MeleeDamage": 250
+  },
+  "WoodenBow": {
+    "UsageTime": 300,
+    "MeleeDamage": 10,
+    "ProjectileName": "WoodArrow",
+    "ProjectileDamage": 30,
+    "ProjectileSpeed": 0.6
+  },
+  "WoodenQuiver": {
+    "UsageTime": 0
+  },
+  "BoneBow": {
+    "UsageTime": 250,
+    "MeleeDamage": 0,
+    "ProjectileName": "BoneArrow",
+    "ProjectileDamage": 50,
+    "ProjectileSpeed": 0.8
+  },
+  "BoneQuiver": {
+    "UsageTime": 0
+  },
+  "WoodenScepter": {
+    "UsageTime": 700,
+    "MeleeDamage": 20,
+    "ProjectileName": "FireballLarge",
+    "ProjectileDamage": 90,
+    "ProjectileSpeed": 0.25
+  },
+  "WoodenWand": {
+    "UsageTime": 140,
+    "MeleeDamage": 15,
+    "ProjectileName": "Fireball",
+    "ProjectileDamage": 15,
+    "ProjectileSpeed": 0.8
+  },
+  "WoodenBook": {
+    "UsageTime": 0
+  },
+  "BoneScepter": {
+    "UsageTime": 450,
+    "MeleeDamage": 20,
+    "ProjectileName": "BlueFireballLarge",
+    "ProjectileDamage": 150,
+    "ProjectileSpeed": 0.35
+  },
+  "BoneWand": {
+    "UsageTime": 140,
+    "MeleeDamage": 15,
+    "ProjectileName": "BlueFireball",
+    "ProjectileDamage": 30,
+    "ProjectileSpeed": 1.0
+  },
+  "BoneBook": {
+    "UsageTime": 0
+  },
+  "WoodenTargetShield": {
+    "UsageTime": 500,
+    "BlockChance": 30,
+    "BlockPercent": 27
+  },
+  "WoodenBucklerShield": {
+    "UsageTime": 500,
+    "BlockChance": 40,
+    "BlockPercent": 20
+  },
+  "WoodenHeaterShieldSmall": {
+    "UsageTime": 500,
+    "BlockChance": 20,
+    "BlockPercent": 40
+  },
+  "WoodenHeaterShieldLarge": {
+    "UsageTime": 800,
+    "BlockChance": 40,
+    "BlockPercent": 40
+  },
+  "BoneTargetShield": {
+    "UsageTime": 150,
+    "BlockChance": 45,
+    "BlockPercent": 27
+  },
+  "BoneBucklerShield": {
+    "UsageTime": 150,
+    "BlockChance": 60,
+    "BlockPercent": 20
+  },
+  "BoneHeaterShieldSmall": {
+    "UsageTime": 150,
+    "BlockChance": 30,
+    "BlockPercent": 40
+  },
+  "BoneHeaterShieldLarge": {
+    "UsageTime": 150,
+    "BlockChance": 60,
+    "BlockPercent": 40
+  },
+  "LargeHealthPotion": {
+    "UsageTime": 200,
+    "EffectMagnitude": 125
+  },
+  "SmallHealthPotion": {
+    "UsageTime": 200,
+    "EffectMagnitude": 50
+  },
+  "LargeShieldPotion": {
+    "UsageTime": 200,
+    "EffectMagnitude": 125
+  },
+  "SmallShieldPotion": {
+    "UsageTime": 200,
+    "EffectMagnitude": 50
+  },
+  "LargeEmptyPotion": {
+    "UsageTime": 200,
+    "EffectMagnitude": 0
+  },
+  "SmallEmptyPotion": {
+    "UsageTime": 200,
+    "EffectMagnitude": 0
+  },
+  "Key": {
+    "UsageTime": 200,
+    "EffectMagnitude": 3
+  },
+  "WoodenArrow": {
+    "UsageTime": 999
+  },
+  "BoneArrow": {
+    "UsageTime": 999
+  },
+  "Map": {
+    "UsageTime": 999
+  }
+}

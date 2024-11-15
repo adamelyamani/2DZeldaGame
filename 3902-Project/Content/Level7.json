@@ -1,0 +1,423 @@
+{
+    "Name": "Room 7",
+    "PlayerStartingPosition": {
+        "X": 632,
+        "Y": 572
+    },
+    "Environment": [
+        {
+            "X": 16,
+            "Y": 96,
+            "IsCollidable": false,
+            "Type": "FullFloor"
+        },
+        {
+            "X": 22,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 104,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 200,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 296,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 392,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 488,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 584,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 680,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 776,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 872,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 968,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 1064,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 1146,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+
+        {
+            "X": 14,
+            "Y": 22,
+            "IsCollidable": true,
+            "Type": "WallTopLeftCorner"
+        },
+        {
+            "X": 14,
+            "Y": 58,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 122,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 186,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 250,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 314,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 378,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 442,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 506,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 570,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 14,
+            "Y": 634,
+            "IsCollidable": true,
+            "Type": "WallBottomLeftCorner"
+        },
+
+        {
+            "X": 22,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 104,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 200,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 296,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 392,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 488,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 584,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 680,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 776,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 872,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 968,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+
+        {
+            "X": 1064,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 1146,
+            "Y": 632,
+            "IsCollidable": true,
+            "Type": "BackWall"
+        },
+        {
+            "X": 1226,
+            "Y": 634,
+            "IsCollidable": true,
+            "Type": "WallBottomRightCorner"
+        },
+        {
+            "X": 1240,
+            "Y": 570,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1240,
+            "Y": 506,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1240,
+            "Y": 442,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1240,
+            "Y": 378,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1240,
+            "Y": 314,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1240,
+            "Y": 250,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1240,
+            "Y": 186,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1240,
+            "Y": 122,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1240,
+            "Y": 58,
+            "IsCollidable": true,
+            "Type": "WallStraightVertical"
+        },
+        {
+            "X": 1226,
+            "Y": 22,
+            "IsCollidable": true,
+            "Type": "WallTopRightCorner"
+        },
+        {
+            "X": 80,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 176,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 272,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 368,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 418,
+            "Y": 36,
+            "IsCollidable": true,
+            "Type": "WoodWindow"
+        },
+        {
+            "X": 464,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 560,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 656,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 752,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 802,
+            "Y": 36,
+            "IsCollidable": true,
+            "Type": "WoodWindow"
+        },
+        {
+            "X": 848,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 944,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 1040,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        },
+        {
+            "X": 1136,
+            "Y": 0,
+            "IsCollidable": true,
+            "Type": "BackWallPillar"
+        }
+    ],
+    "Items": [
+        {
+            "X": 1000,
+            "Y": 300,
+            "Type": "LargeHealthPotion"
+        },
+        {
+            "X": 1000,
+            "Y": 350,
+            "Type": "LargeHealthPotion"
+        },
+        {
+            "X": 1000,
+            "Y": 400,
+            "Type": "LargeShieldPotion"
+        },
+        {
+            "X": 1000,
+            "Y": 450,
+            "Type": "LargeShieldPotion"
+        },
+        {
+          "X": 1050,
+          "Y": 364,
+          "Type": "Key"
+        },
+        {
+          "X": 1075,
+          "Y": 400,
+          "Type": "Map"
+        }
+    ]
+
+}

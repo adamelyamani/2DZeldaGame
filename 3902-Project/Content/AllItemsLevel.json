@@ -1,0 +1,550 @@
+{
+  "Name": "Level With All Items",
+  "PlayerStartingPosition": {
+    "X": 400,
+    "Y": 480
+  },
+  "Environment": [
+    {
+      "X": 8,
+      "Y": 96,
+      "IsCollidable": false,
+      "Type": "FullFloor2"
+    },
+    {
+      "X": 8,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 104,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 200,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 296,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 392,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 488,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 584,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 680,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 776,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 872,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 968,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 1064,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 1160,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+
+    {
+      "X": 0,
+      "Y": 22,
+      "IsCollidable": true,
+      "Type": "WallTopLeftCorner"
+    },
+    {
+      "X": 0,
+      "Y": 58,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 122,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 186,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 250,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 314,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 378,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 442,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 506,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 570,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 580,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 0,
+      "Y": 644,
+      "IsCollidable": true,
+      "Type": "WallBottomLeftCorner"
+    },
+
+    {
+      "X": 8,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 104,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 200,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 296,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 256,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "DoorClosedS"
+    },
+    {
+      "X": 392,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 488,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 584,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 680,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 776,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 872,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 968,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 928,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "DoorClosedS"
+    },
+    {
+      "X": 1064,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 1160,
+      "Y": 642,
+      "IsCollidable": true,
+      "Type": "BackWall"
+    },
+    {
+      "X": 1240,
+      "Y": 644,
+      "IsCollidable": true,
+      "Type": "WallBottomRightCorner"
+    },
+    {
+      "X": 1254,
+      "Y": 580,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 570,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 506,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 442,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 378,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 314,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 250,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 186,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 122,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1254,
+      "Y": 58,
+      "IsCollidable": true,
+      "Type": "WallStraightVertical"
+    },
+    {
+      "X": 1240,
+      "Y": 22,
+      "IsCollidable": true,
+      "Type": "WallTopRightCorner"
+    },
+    {
+      "X": 80,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 176,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 256,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "DoorClosedN"
+    },
+    {
+      "X": 368,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 464,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 560,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 656,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 752,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 928,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "DoorClosedS"
+    },
+    {
+      "X": 848,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 1040,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    },
+    {
+      "X": 1136,
+      "Y": 0,
+      "IsCollidable": true,
+      "Type": "BackWallPillar"
+    }
+  ],
+    "Enemies": [
+        {
+            "X": 100,
+            "Y": 200,
+            "Type": "OrcBase"
+        },
+        {
+            "X": 300,
+            "Y": 200,
+            "Type": "OrcMage"
+        },
+        {
+            "X": 700,
+            "Y": 200,
+            "Type": "OrcRogue"
+        },
+        {
+            "X": 1000,
+            "Y": 200,
+            "Type": "OrcWarrior"
+        },
+        {
+            "X": 100,
+            "Y": 500,
+            "Type": "SkeletonBase"
+        },
+        {
+            "X": 400,
+            "Y": 500,
+            "Type": "SkeletonMage"
+        },
+        {
+            "X": 700,
+            "Y": 500,
+            "Type": "SkeletonRogue"
+        },
+        {
+            "X": 1000,
+            "Y": 500,
+            "Type": "SkeletonWarrior"
+        }
+    ],
+  "Items": [
+    {
+      "X": 500,
+      "Y": 250,
+      "Type": "WoodenShovel"
+    },
+    {
+      "X": 550,
+      "Y": 250,
+      "Type": "WoodenGreatsword"
+    },
+    {
+      "X": 600,
+      "Y": 250,
+      "Type": "WoodenDagger"
+    },
+    {
+      "X": 650,
+      "Y": 250,
+      "Type": "WoodenMallet"
+    },
+    {
+      "X": 700,
+      "Y": 250,
+      "Type": "WoodenSpear"
+    },
+    {
+      "X": 500,
+      "Y": 350,
+      "Type": "BoneGreatsword"
+    },
+    {
+      "X": 550,
+      "Y": 350,
+      "Type": "BoneDagger"
+    },
+    {
+      "X": 600,
+      "Y": 350,
+      "Type": "BoneMallet"
+    },
+    {
+      "X": 650,
+      "Y": 350,
+      "Type": "BoneSpear"
+    },
+    {
+      "X": 700,
+      "Y": 350,
+      "Type": "BoneRake"
+    },
+    {
+      "X": 500,
+      "Y": 425,
+      "Type": "WoodenBow"
+    },
+    {
+      "X": 550,
+      "Y": 425,
+      "Type": "BoneBow"
+    },
+    {
+      "X": 500,
+      "Y": 500,
+      "Type": "WoodenWand"
+    },
+    {
+      "X": 575,
+      "Y": 500,
+      "Type": "WoodenScepter"
+    },
+    {
+      "X": 625,
+      "Y": 500,
+      "Type": "BoneWand"
+    },
+    {
+      "X": 700,
+      "Y": 500,
+      "Type": "BoneScepter"
+    },
+    {
+      "X": 475,
+      "Y": 600,
+      "Type": "LargeHealthPotion"
+    },
+    {
+      "X": 525,
+      "Y": 600,
+      "Type": "SmallHealthPotion"
+    },
+    {
+      "X": 575,
+      "Y": 600,
+      "Type": "SmallShieldPotion"
+    },
+    {
+      "X": 625,
+      "Y": 600,
+      "Type": "LargeShieldPotion"
+    },
+    {
+      "X": 685,
+      "Y": 590,
+      "Type": "Key"
+    }
+  ]
+}

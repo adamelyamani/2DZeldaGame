@@ -1,0 +1,666 @@
+{
+  "Name": "Room 10",
+  "PlayerStartingPosition": {
+    "X": 400,
+    "Y": 200
+  },
+    "Environment": [
+      {
+        "X": 8,
+        "Y": 96,
+        "IsCollidable": false,
+        "Type": "FullFloor"
+      },
+  
+      {
+        "X": 22,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 104,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 200,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 296,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 392,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 488,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 584,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 680,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 776,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 872,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 968,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 1064,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 1146,
+        "Y": 0,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+  
+      {
+        "X": 14,
+        "Y": 22,
+        "IsCollidable": true,
+        "Type": "WallTopLeftCorner"
+      },
+      {
+        "X": 14,
+        "Y": 58,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 122,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 186,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 250,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 314,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 378,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 442,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 506,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 570,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 14,
+        "Y": 634,
+        "IsCollidable": true,
+        "Type": "WallBottomLeftCorner"
+      },
+  
+      {
+        "X": 22,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 104,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 200,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 296,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 392,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 488,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 584,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 680,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 776,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 872,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 968,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+  
+      {
+        "X": 1064,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 1146,
+        "Y": 632,
+        "IsCollidable": true,
+        "Type": "BackWall"
+      },
+      {
+        "X": 1226,
+        "Y": 634,
+        "IsCollidable": true,
+        "Type": "WallBottomRightCorner"
+      },
+      {
+        "X": 1240,
+        "Y": 570,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1240,
+        "Y": 506,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1240,
+        "Y": 442,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1240,
+        "Y": 378,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1240,
+        "Y": 314,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1240,
+        "Y": 250,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1240,
+        "Y": 186,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1240,
+        "Y": 122,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1240,
+        "Y": 58,
+        "IsCollidable": true,
+        "Type": "WallStraightVertical"
+      },
+      {
+        "X": 1226,
+        "Y": 22,
+        "IsCollidable": true,
+        "Type": "WallTopRightCorner"
+      },
+      {
+        "X": 115,
+        "Y": 162,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 204,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 246,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 288,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 330,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 372,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 414,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 456,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 498,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 115,
+        "Y": 540,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 179,
+        "Y": 204,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 243,
+        "Y": 204,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 307,
+        "Y": 204,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 307,
+        "Y": 248,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 371,
+        "Y": 160,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 435,
+        "Y": 160,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 499,
+        "Y": 160,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 691,
+        "Y": 95,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 820,
+        "Y": 162,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 884,
+        "Y": 162,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 948,
+        "Y": 162,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 1012,
+        "Y": 95,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 1076,
+        "Y": 162,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 1076,
+        "Y": 206,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 563,
+        "Y": 316,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 499,
+        "Y": 316,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 435,
+        "Y": 316,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 371,
+        "Y": 316,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 627,
+        "Y": 316,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 755,
+        "Y": 316,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 819,
+        "Y": 316,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 883,
+        "Y": 357,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 947,
+        "Y": 357,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 1011,
+        "Y": 357,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 1075,
+        "Y": 357,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 1075,
+        "Y": 399,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 691,
+        "Y": 253,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 627,
+        "Y": 367,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 627,
+        "Y": 415,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 627,
+        "Y": 463,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 627,
+        "Y": 465,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 243,
+        "Y": 421,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 243,
+        "Y": 465,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 307,
+        "Y": 465,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 371,
+        "Y": 465,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 435,
+        "Y": 465,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 499,
+        "Y": 465,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 755,
+        "Y": 496,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 755,
+        "Y": 540,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 883,
+        "Y": 399,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 883,
+        "Y": 441,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 563,
+        "Y": 465,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 1075,
+        "Y": 441,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 1075,
+        "Y": 483,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      },
+      {
+        "X": 948,
+        "Y": 207,
+        "IsCollidable": true,
+        "Type": "WoodCrateLarge"
+      }
+    ],
+    "Enemies": [
+      {
+        "X": 536,
+        "Y": 188,
+        "Type": "SkeletonBase"
+      },
+      {
+        "X": 975,
+        "Y": 500,
+        "Type": "SkeletonBase"
+      },
+      {
+        "X": 420,
+        "Y": 494,
+        "Type": "SkeletonWarrior"
+      }
+    ],
+    "Items": [
+      {
+        "X": 570,
+        "Y": 450,
+        "Type": "LargeHealthPotion"
+      },
+      {
+        "X": 1110,
+        "Y": 140,
+        "Type": "BoneDagger"
+      }
+    ]
+  }
